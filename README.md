@@ -7,7 +7,7 @@ def Durham():
   
 Durham()
 
-Problem 2:
+<b>Problem 2:</b>
 
 bandlist = ['Kiss', 'Aerosmith', 'ACDC', 'Led Zeppelin', 'Nickelback']
 
@@ -17,7 +17,7 @@ def bands():
 
 bands()
 
-Problem 3:
+<b>Problem 3:</b>
 
 bandlist = ['Kiss', 'Aerosmith', 'ACDC', 'Led Zeppelin', 'Nickelback']
 
@@ -30,7 +30,7 @@ def bands():
 
 bands()
 
-Problem 4:
+<b>Problem 4:</b>
 
 array = [34, 203, 16, 46, 34, 432, 342, 124, 33, 188, 12]
 
@@ -40,7 +40,7 @@ def avgArray():
 
 avgArray()
 
-Problem 5:
+<b>Problem 5:</b>
 
 array = ['a', 'b', 'c', 'd', 'c', 'b', 'b', 'c', 'a', 'e', 'b', 'e']
 
@@ -56,14 +56,14 @@ frequency()
 
 """I think this uses way too many variables but not sure how to do it cleaner."""
 
-Problem 6:
+<b>Problem 6:</b>
 
 arrayOne = ['a', 'b', 'c', 'a', 'a', 'b', 'd']
 arrayTwo = ['a', 'b', 'b', 'a', 'e', 'c', 'c', 'g']
 
 """Not sure without research.  If I had solved problem 5, I'd probably try to use that counting logic to create a new list of the overlaps and then print that list."""
 
-Problem 7:
+<b>Problem 7:</b>
 
 """I worked on this for way too long because I really felt like I could figure it out, but never got it quite right.  Totally googling this after submitting."""
 
