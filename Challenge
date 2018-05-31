@@ -34,7 +34,9 @@ array = [34, 203, 16, 46, 34, 432, 342, 124, 33, 188, 12]
 
 def avgArray():
   for number in array:
-    """I'd add all the numbers and divide the sum by the number of items in the list, but not sure how to add, divide, or count the list without googling.  Tried importing math but it had no average function and that's probably cheating anyway."""
+    """I'd add all the numbers and divide the sum by the number of items in the list, 
+    but not sure how to add, divide, or count the list without googling.  Tried 
+    importing math but it had no average function and that's probably cheating anyway."""
 
 avgArray()
 
@@ -59,11 +61,13 @@ Problem 6:
 arrayOne = ['a', 'b', 'c', 'a', 'a', 'b', 'd']
 arrayTwo = ['a', 'b', 'b', 'a', 'e', 'c', 'c', 'g']
 
-"""Not sure without research.  If I had solved problem 5, I'd probably try to use that counting logic to create a new list of the overlaps and then print that list."""
+"""Not sure without research.  If I had solved problem 5, I'd probably try to use that 
+counting logic to create a new list of the overlaps and then print that list."""
 
 Problem 7:
 
-"""I worked on this for way too long because I thought was close but couldn't get it quite right."""
+"""I worked on this for way too long because I thought was close but couldn't get it 
+quite right."""
 
 cost = input("How much would you like to withdraw?")
 
