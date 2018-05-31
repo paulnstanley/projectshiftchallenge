@@ -1,12 +1,14 @@
 # projectshiftchallenge
 
-Problem 1:
+<b>Problem 1:</b>
+
 def Durham():
   print "Durham is awesome!"
   
 Durham()
 
 Problem 2:
+
 bandlist = ['Kiss', 'Aerosmith', 'ACDC', 'Led Zeppelin', 'Nickelback']
 
 def bands():
@@ -16,6 +18,7 @@ def bands():
 bands()
 
 Problem 3:
+
 bandlist = ['Kiss', 'Aerosmith', 'ACDC', 'Led Zeppelin', 'Nickelback']
 
 def bands():
@@ -28,6 +31,7 @@ def bands():
 bands()
 
 Problem 4:
+
 array = [34, 203, 16, 46, 34, 432, 342, 124, 33, 188, 12]
 
 def avgArray():
@@ -37,6 +41,7 @@ def avgArray():
 avgArray()
 
 Problem 5:
+
 array = ['a', 'b', 'c', 'd', 'c', 'b', 'b', 'c', 'a', 'e', 'b', 'e']
 
 def frequency():
